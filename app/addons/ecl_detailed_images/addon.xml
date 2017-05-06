@@ -3,7 +3,7 @@
     <id>ecl_detailed_images</id>
     <name>[eCom Labs] Detailed Images Size</name>
     <description>Allows to resize product detailed images during image upload</description>
-    <version>1.0</version>
+    <version>1.1</version>
     <priority>4294967294</priority>
     <position>0</position>
     <status>active</status>
